@@ -13,7 +13,7 @@ machines also open up the chance for even more innovations in software.
 In my opinion, the constant development of AI and the growing energy costs to 
 support it necessitates the development of more efficient hardware systems. 
 Seeing developments like this being considered for computer innovation 
-excited me. 
+excites me. 
 
 
 [article]: https://sciencedaily.com/releases/2026/09/260911003858.htm
